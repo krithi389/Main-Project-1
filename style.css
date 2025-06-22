@@ -542,14 +542,19 @@ footer{
    
 }
 .fashion img{
-    width:200px;
-    height: 200px;
+    width:160px;
+    height: 180px;
     border-radius: 10px;
 }
 .fa-magnifying-glass{
     position: absolute;
     right:70px;
     top:108px;
+}
+.variety img{
+    width:160px;
+    height:180px;
+    border-radius: 10px;
 }
 .contacts{
     width:360px;
